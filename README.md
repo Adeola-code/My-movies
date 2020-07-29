@@ -1,2 +1,2 @@
-# Shopping
-A website created for online shopping By Adeola Ojekunle
+# Movies
+A website created for watching mivies By Adeola Ojekunle
